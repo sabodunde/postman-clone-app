@@ -1,7 +1,6 @@
-﻿namespace PostmanClone.Library
-{
-    public class Class1
-    {
+﻿namespace PostmanClone.Library;
 
-    }
+public class Class1
+{
+
 }
