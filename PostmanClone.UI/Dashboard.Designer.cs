@@ -84,7 +84,7 @@
             resultsText.Name = "resultsText";
             resultsText.ReadOnly = true;
             resultsText.ScrollBars = ScrollBars.Both;
-            resultsText.Size = new Size(1060, 628);
+            resultsText.Size = new Size(1154, 628);
             resultsText.TabIndex = 4;
             // 
             // statusStrip
@@ -94,7 +94,7 @@
             statusStrip.Items.AddRange(new ToolStripItem[] { systemStatus });
             statusStrip.Location = new Point(0, 1045);
             statusStrip.Name = "statusStrip";
-            statusStrip.Size = new Size(1600, 45);
+            statusStrip.Size = new Size(1247, 45);
             statusStrip.TabIndex = 5;
             statusStrip.Text = "statusStrip1";
             // 
@@ -119,7 +119,7 @@
             AutoScaleDimensions = new SizeF(20F, 48F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(1600, 1090);
+            ClientSize = new Size(1247, 1090);
             Controls.Add(resultsLabel);
             Controls.Add(statusStrip);
             Controls.Add(resultsText);
